@@ -1,0 +1,8 @@
+Nesta atividade trabalharemos com a primeira etapa da análise de dados, que é a aquisição, organização e análise preliminar dos dados. Tarefa:
+- escolher um dataset de interesse em algum repositório 
+- criar um notebook no Google Colab
+- realizar a leitura dos dados com pandas
+- realizar a limpeza dos dados
+- realizar a análise preliminar dos dados
+- interpretar a análise e adicionar as interpretações no notebook
+- salvar o notebook no GitHub
